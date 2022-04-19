@@ -34,7 +34,7 @@ I'm currently a Software Engineer based in Boston, MA. I am experienced in Front
 
 ### My Projects 
 
-<section>
+<!-- <section>
       <div>
   <div>   
     
@@ -48,7 +48,7 @@ I'm currently a Software Engineer based in Boston, MA. I am experienced in Front
         <p><strong>HTML5, CSS3, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
 </section>
       </div>
-  </div>
+  </div> -->
 
 ## Connect with me  
 
