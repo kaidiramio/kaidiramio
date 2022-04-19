@@ -33,6 +33,7 @@ I'm currently a Software Engineer based in Boston, MA. I am experienced in Front
 <br/>
 
 ### My Projects 
+
 <section>
       <div>
   <div>   
