@@ -1,4 +1,7 @@
+kaidiramio/README.md
+
 <section>
+  <img src"https://thumbs.dreamstime.com/b/boston-skyline-panorama-19344409.jpg">
   <h1> Hi There!</h1>
 
 </section>
