@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Kai DiRamio
-- 👀 I’m interested in classical music and coding! 
-- 🌱 I’m currently learning JavaScript lol. 
-- 📫 How to reach me: kaidiramio@gmail.com
+<section>
+  <h1> Hi There!</h1>
+
+</section>
 
 <!---
 kaidiramio/kaidiramio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
