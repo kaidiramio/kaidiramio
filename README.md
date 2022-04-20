@@ -33,7 +33,7 @@ I'm currently a Software Engineer based in Boston, MA. I am experienced in Front
 
 <br/>
 
-### My Portfolio
+## My Portfolio
 
 <div align = "left">
       </a>Check out my work!</h3>
