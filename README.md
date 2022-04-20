@@ -32,15 +32,15 @@ I'm currently a Software Engineer based in Boston, MA. I am experienced in Front
 
 <br/>
 
-### My Projects 
+### My Portfolio
 
 <div align = "center">
-      </a>Portfolio</h3>
+      </a>Check out my work!</h3>
         <br>
         <p> <a href="https://kai-diramio.netlify.app" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="https://kai-diramio.netlify.app" rel="nofollow">
-            <img src="https://user-images.githubusercontent.com/102914715/164133574-8808b245-d6f5-4ee7-af02-4ad5846cc06a.jpg" width="100%" alt="Portfolio">
+            <img src="https://user-images.githubusercontent.com/102914715/164133574-8808b245-d6f5-4ee7-af02-4ad5846cc06a.jpg" width="50%" alt="Portfolio">
         </a>
         <p><strong>HTML5, CSS3, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
  </div>
