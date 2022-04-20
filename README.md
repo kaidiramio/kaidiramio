@@ -1,6 +1,6 @@
 <!-- courtesy to a template I took bits and pieces from online -->
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQE0IYUUxQWHhg/profile-displaybackgroundimage-shrink_200_800/0/1648090281854?e=2147483647&v=beta&t=D2awWZVpGcE8bHAC8PrdEWe25-xG8KIRkaakvY6JLjo">
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQE0IYUUxQWHhg/profile-displaybackgroundimage-shrink_200_800/0/1648090281854?e=2147483647&v=beta&t=D2awWZVpGcE8bHAC8PrdEWe25-xG8KIRkaakvY6JLjo" width="100%">
 
 ### Hi there!👋 My name is Kai
 I'm currently a Software Engineer based in Boston, MA. I am experienced in Frontend development. I have knowledge in HTML, CSS, and Javascript. I also have experience as an Product Support professional. As a software engineer, I aspire to help curate change and work for a company who not only "talks the talk" but "walks the walk".
@@ -41,10 +41,11 @@ I'm currently a Software Engineer based in Boston, MA. I am experienced in Front
         <p> <a href="https://kai-diramio.netlify.app" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="https://kai-diramio.netlify.app" rel="nofollow">
-            <img src="https://user-images.githubusercontent.com/102914715/164133574-8808b245-d6f5-4ee7-af02-4ad5846cc06a.jpg" width="50%" alt="Portfolio">
+            <img src="https://user-images.githubusercontent.com/102914715/164133574-8808b245-d6f5-4ee7-af02-4ad5846cc06a.jpg" width="40%" alt="Portfolio">
         </a>
         <p><strong>HTML5, CSS3, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
  </div>
+ 
 
 ## Connect with me  
 
