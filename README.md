@@ -30,7 +30,7 @@ I'm currently a Software Engineer based in Boston, MA. I am experienced in Front
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />   -->
 </div>
 <!-- </td><td valign="top" width="33%"> -->
-<br/>
+
 
 ## My Portfolio
 
@@ -42,8 +42,6 @@ I'm currently a Software Engineer based in Boston, MA. I am experienced in Front
         <p><strong>HTML5, CSS3, Javascript</strong> - Portfolio Site including links to my projects!</p>
  </div>
  
- <br>
- 
  <div align = "left">
  <h2> Check Out My latest projects </h2>
       <p><a href="https://tasktracker01.netlify.app" rel="nofollow">Task Tracker</a></p>
@@ -51,7 +49,6 @@ I'm currently a Software Engineer based in Boston, MA. I am experienced in Front
       <p><a href="https://rockpaperscissors01.netlify.app" rel="nofollow">Rock, Paper, Scissors</a></p>
       <p><a href="https://mock-up01.netlify.app" rel="nofollow">JWLI Website</a></p>
  </div>
- <br/>
 
 ## Let's Connect!  
 
