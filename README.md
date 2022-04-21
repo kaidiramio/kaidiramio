@@ -45,6 +45,13 @@ I'm currently a Software Engineer based in Boston, MA. I am experienced in Front
  
  <br>
  
+ <div align = "left">
+ <h2> Check Out My latest projects </h2>
+      <p><a href="https://tasktracker01.netlify.app" rel="nofollow">Task Tracker</a></p>
+      <p><a href="https://moneyshoreslots.netlify.app" rel="nofollow">Money Shore Slots</a></p>
+      <p><a href="https://rockpaperscissors01.netlify.app" rel="nofollow">Rock, Paper, Scissors</a></p>
+      <p><a href="https://mock-up01.netlify.app" rel="nofollow">JWLI Website</a></p>
+ </div>
 
 ## Let's Connect!  
 
