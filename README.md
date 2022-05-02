@@ -2,7 +2,7 @@
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQE0IYUUxQWHhg/profile-displaybackgroundimage-shrink_200_800/0/1648090281854?e=2147483647&v=beta&t=D2awWZVpGcE8bHAC8PrdEWe25-xG8KIRkaakvY6JLjo" width="100%">
 
-### Hi there!👋 My name is Kai
+### Hi there! My name is Kai
 I'm currently a Software Engineer based in Boston, MA. I am experienced in Frontend development. I have knowledge in HTML, CSS, and Javascript. I also have experience as an Product Support professional. As a software engineer, I aspire to help curate change and work for a company who not only "talks the talk" but "walks the walk".
 
 ## My Skill Set  
