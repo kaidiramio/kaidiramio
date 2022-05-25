@@ -2,8 +2,9 @@
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQE0IYUUxQWHhg/profile-displaybackgroundimage-shrink_200_800/0/1648090281854?e=2147483647&v=beta&t=D2awWZVpGcE8bHAC8PrdEWe25-xG8KIRkaakvY6JLjo" width="100%">
 
-### Hi there! My name is Kai
-I'm currently a Software Engineer based in Boston, MA. I am experienced in Frontend development. I have knowledge in HTML, CSS, and Javascript. I also have experience as an Product Support professional. As a software engineer, I aspire to help curate change and work for a company who not only "talks the talk" but "walks the walk".
+As a Full-Stack Software Engineer, with a a background in Education, Ed-Tech, and Sociology, I aspire to help curate social change and am inspired by how we can use technology as a tool to influence and create positive social impact.
+
+See my <a href="https://kai-diramio.netlify.app" rel="nofollow">website</a>for more information!
 
 ## My Skill Set  
 <!-- <table><tr><td valign="top" width="33%"> -->
@@ -16,7 +17,6 @@ I'm currently a Software Engineer based in Boston, MA. I am experienced in Front
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />   -->  
 </div>
 <!-- </td><td valign="top" width="33%"> -->
  
@@ -25,9 +25,9 @@ I'm currently a Software Engineer based in Boston, MA. I am experienced in Front
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <!-- not much here yet -->
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />   -->
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />   -->
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />   -->
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 </div>
 <!-- </td><td valign="top" width="33%"> -->
 
@@ -47,8 +47,8 @@ I'm currently a Software Engineer based in Boston, MA. I am experienced in Front
  <h2> Check Out My latest projects </h2>
       <p><a href="https://retrotimetictactoe.netlify.app/">Retro-Time Tic Tac Toe</a></p>
       <p><a href="https://tasktracker01.netlify.app" rel="nofollow">Task Tracker</a></p>
-      <p><a href="https://moneyshoreslots.netlify.app" rel="nofollow">Money Shore Slots</a></p>
-      <p><a href="https://rockpaperscii.netlify.app" rel="nofollow">Rock, Paper, Scissors</a></p>
+      <p><a href="https://zeldamatchingcards.netlify.app" rel="nofollow">Zelda Memory Card Game</a></p>
+      <p><a href="https://wutangnamegenerator.netlify.app" rel="nofollow">Wu-Tang Name Generator</a></p>
       <p><a href="https://mock-up01.netlify.app" rel="nofollow">JWLI Website</a></p>
  </div>
 
