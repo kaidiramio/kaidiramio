@@ -6,7 +6,7 @@ As a Full-Stack Software Engineer, with a a background in Education, Ed-Tech, an
 
 See my <a href="https://kai-diramio.netlify.app" rel="nofollow">website</a>for more information!
 
-## My Skill Set  
+## Technologies 
 <!-- <table><tr><td valign="top" width="33%"> -->
  
 ### Frontend  
@@ -31,19 +31,10 @@ See my <a href="https://kai-diramio.netlify.app" rel="nofollow">website</a>for m
 </div>
 <!-- </td><td valign="top" width="33%"> -->
 
+## Projects
 
-## My Portfolio
-
-<div align = "left">
-      <h3><a href="https://kai-diramio.netlify.app" rel="nofollow">Check out my Portfolio!</a></h3>
-        <a href="https://kai-diramio.netlify.app" rel="nofollow">
-            <img src="https://user-images.githubusercontent.com/102914715/164133574-8808b245-d6f5-4ee7-af02-4ad5846cc06a.jpg" width="40%" alt="Portfolio">
-        </a>
-        <p><strong>HTML5, CSS3, Javascript</strong> - Portfolio Site including links to some of my projects!</p>
- </div>
- 
  <div align = "left">
- 
+<!-- goal to add gifs and make a table -->
  <h2> Check Out My latest projects </h2>
       <p><a href="https://retrotimetictactoe.netlify.app/">Retro-Time Tic Tac Toe</a></p>
       <p><a href="https://tasktracker01.netlify.app" rel="nofollow">Task Tracker</a></p>
