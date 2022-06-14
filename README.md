@@ -1,6 +1,6 @@
 <!-- courtesy to a template I took bits and pieces from online -->
 
-<img src="[https://media-exp1.licdn.com/dms/image/C4E16AQE0IYUUxQWHhg/profile-displaybackgroundimage-shrink_200_800/0/1648090281854?e=2147483647&v=beta&t=D2awWZVpGcE8bHAC8PrdEWe25-xG8KIRkaakvY6JLjo](https://www.stevens.edu/sites/stevens_edu/files/styles/news_detail/public/Unknown.jpeg?itok=dNi0_p-A)" width="100%">
+<img src="https://www.stevens.edu/sites/stevens_edu/files/styles/news_detail/public/Unknown.jpeg?itok=dNi0_p-A" width="100%">
 
 As a Full-Stack Software Engineer, with a a background in Education, Ed-Tech, and Sociology, I aspire to help curate social change and am inspired by how we can use technology as a tool to influence and create positive social impact.
 
