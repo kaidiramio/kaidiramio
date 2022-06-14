@@ -7,10 +7,10 @@ As a Full-Stack Software Engineer, with a a background in Education, Ed-Tech, an
 See my <a href="https://kai-diramio.netlify.app" rel="nofollow">website</a> for more information!
 
 
-<table><tr><td valign="top" width="33%"> -->
+<table><tr><td valign="top" width="33%">
 ## Technologies
-<!-- ### Frontend  
- 
+
+## Frontend  
 <div align="left">  
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />   -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -29,7 +29,7 @@ See my <a href="https://kai-diramio.netlify.app" rel="nofollow">website</a> for 
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 </div>
-</td><td valign="top" width="33%">
+<!-- </td><td valign="top" width="33%"> -->
 
 ## Projects
 
