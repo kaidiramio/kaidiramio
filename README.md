@@ -6,42 +6,72 @@ As a Full-Stack Software Engineer, with a a background in Education, Ed-Tech, an
 
 See my <a href="https://kai-diramio.netlify.app" rel="nofollow">website</a> for more information!
 
+### Technologies
 
-<table><tr><td valign="top" width="33%">
-## Technologies
+## Backend  
+<div align="left">  
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" />
+<!-- not much here yet -->
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="70"/>  
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" />  
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="70" />  
+</div>
 
 ## Frontend  
 <div align="left">  
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />   -->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-</div> -->
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" />  
+</div>
 </td><td valign="top" width="33%">
  
-### Backend  
-
-<div align="left">  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />   -->
-<!-- not much here yet -->
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/>  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-</div>
-<!-- </td><td valign="top" width="33%"> -->
-
-## Projects
-
-<div align = "left">
-<!-- goal to add gifs and make a table -->
- <h2> Check Out My latest projects </h2>
-      <p><a href="https://retrotimetictactoe.netlify.app/">Retro-Time Tic Tac Toe</a></p>
-      <p><a href="https://tasktracker01.netlify.app" rel="nofollow">Task Tracker</a></p>
-      <p><a href="https://zeldamatchingcards.netlify.app" rel="nofollow">Zelda Memory Card Game</a></p>
-      <p><a href="https://wutangnamegenerator.netlify.app" rel="nofollow">Wu-Tang Name Generator</a></p>
-      <p><a href="https://mock-up01.netlify.app" rel="nofollow">JWLI Website</a></p>
- </div>
+ 
+<h1 align="Left">Projects</h1>
+<table>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">TrackRA</h3>
+        <br />
+        <a target="_blank" href="https://github.com/kaidiramio/TrackRA">
+            <img src="https://i.imgur.com/C1Bt7Nf.png" width="100%"/>
+        </a>
+        <p align="center">
+         <button align="center"><a href="https://github.com/kaidiramio/TrackRA">Learn More!</a></button>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Retro-Time Tic Tac Toe</h3>
+        <br />
+      <a target="_blank" href="https://retrotimetictactoe.netlify.app/">
+            <img src="https://i.imgur.com/0ieRkGG.png" width="100%"/>
+      </a>
+      <p align="center">
+         <button align="center"><a href="https://retrotimetictactoe.netlify.app/">Learn More!</a></button>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Hayden Barista App</h3>
+      <br />
+        <a target="_blank" href="https://github.com/kaidiramio/haydenCoffeeApp">
+          <img src="https://i.imgur.com/9trLClH.png" width="100%"/>
+        </a>
+     <p align="center">
+         <button align="center"><a href="https://github.com/kaidiramio/haydenCoffeeAp">Learn More!</a></button>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Zelda Matching Cards</h3>
+        <br />
+        <a target="_blank" href="https://zeldamatchingcards.netlify.app">
+          <img src="https://j.gifs.com/k2KYDX.gif" width="100%"/>
+        </a>
+     <p align="center">
+         <button align="center"><a href="https://zeldamatchingcards.netlify.app">Learn More!</a></button>
+    </td>
+  </tr>
+</table>
 
 ## Let's Connect!  
 
