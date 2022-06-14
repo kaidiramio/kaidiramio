@@ -1,6 +1,6 @@
 <!-- courtesy to a template I took bits and pieces from online -->
 
-<img src="https://www.stevens.edu/sites/stevens_edu/files/styles/news_detail/public/Unknown.jpeg?itok=dNi0_p-A" width="100%" height="300px">
+<img src="https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/201808/Q0318-BT-Voices-Grisamore-hero.jpg?itok=BX0ALvJN" width="100%">
 
 As a Full-Stack Software Engineer, with a a background in Education, Ed-Tech, and Sociology, I aspire to help curate social change and am inspired by how we can use technology as a tool to influence and create positive social impact.
 
