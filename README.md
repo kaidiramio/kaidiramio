@@ -35,8 +35,9 @@ See my <a href="https://kai-diramio.netlify.app" rel="nofollow">website</a> for 
       <h3 align="center">TrackRA</h3>
         <br />
         <a target="_blank" href="https://github.com/kaidiramio/TrackRA">
-            <img src="https://i.imgur.com/C1Bt7Nf.png" width="100%"/>
+            <img src="https://i.imgur.com/5XJnPRe.png" width="100%"/>
         </a>
+        
         <p align="center">
          <button align="center"><a href="https://github.com/kaidiramio/TrackRA">Learn More!</a></button>
     </td>
