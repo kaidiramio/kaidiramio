@@ -4,7 +4,7 @@
 
 As a Full-Stack Software Engineer, with a a background in Education, Ed-Tech, and Sociology, I aspire to help curate social change and am inspired by how we can use technology as a tool to influence and create positive social impact.
 
-See my <a href="https://kai-diramio.netlify.app" rel="nofollow">website</a> for more information!
+See my <a href="https://kaidiramio.netlify.app" rel="nofollow">website</a> for more information!
 
 ### Technologies
 
